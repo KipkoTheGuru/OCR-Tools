@@ -3,8 +3,9 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>net.sourceforge.javaocr</groupId>
-        <artifactId>javaocr-parent</artifactId>
+        <artifactId>pom-parent</artifactId>
         <version>1.102-SNAPSHOT</version>
+        <relativePath>../pom-parent</relativePath>
     </parent>
     <artifactId>javaocr-tools</artifactId>
     <name>Java OCR Tools</name>

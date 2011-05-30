@@ -3,7 +3,7 @@
 // All rights reserved.
 // This software is released under the BSD license.
 // Please see the accompanying LICENSE.txt for details.
-package net.sourceforge.javaocr;
+package net.sourceforge.javaocr.gui;
 
 import net.sourceforge.javaocr.gui.GUIController;
 
